@@ -1,2 +1,5 @@
 # Created by .ignore support plugin (hsz.mobi)
 .idea/
+!/data_types.py
+.gitignore
+car_lab.py
