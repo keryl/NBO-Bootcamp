@@ -24,3 +24,5 @@ class PartTimeEmployee(Employee):
 if __name__ == "__main__":
     pitt = PartTimeEmployee("joy")
     print(pitt.full_time_wage(8))
+
+    
